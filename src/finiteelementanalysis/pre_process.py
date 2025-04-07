@@ -1,4 +1,4 @@
-import gmsh
+#import gmsh
 from itertools import combinations
 import numpy as np
 import scipy.sparse as sp
