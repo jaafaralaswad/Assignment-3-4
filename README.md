@@ -3,7 +3,7 @@
 ![License](https://img.shields.io/badge/license-MIT-green)
 
 
-# ME700 Assignment 3 Part 4
+# ME700 Assignment 3
 
 ## Table of Contents
 
