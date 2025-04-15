@@ -3,7 +3,7 @@
 ![License](https://img.shields.io/badge/license-MIT-green)
 
 
-# ME700 Assignment 3 Part 4
+# ME700 Assignment 3
 
 ## Table of Contents
 
@@ -12,7 +12,10 @@
 - [More Information](#more-information)
 
 ## Introduction
-This repository presents the work developed to fulfill the requirements of Assignment 3 Part 4 for the course ME700.
+This repository presents the work developed to fulfill the requirements of Assignment 3 for the course ME700.
+
+![Code overview](call.png)
+
 
 
 ## Conda environment, install, and testing
